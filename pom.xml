@@ -19,6 +19,7 @@
     <dependency>
       <groupId>nl.hu.bep.friendspammerJB</groupId>
       <artifactId>friendspammer-helper</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>jstl</groupId>
