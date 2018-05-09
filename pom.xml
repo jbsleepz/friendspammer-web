@@ -33,8 +33,20 @@
           <artifactId>jstl</artifactId>
           <version>1.2</version>
         </dependency>
-    </dependencies>
 
+    </dependencies>
+    <repositories>
+        <repository>
+            <id>wesleydekraker-messagesender</id>
+            <url>https://packagecloud.io/jbsleepz/friendspammer/maven2</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 
   <build>
     <finalName>friendspammer-web</finalName>
