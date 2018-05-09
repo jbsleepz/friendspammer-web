@@ -37,7 +37,7 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>wesleydekraker-messagesender</id>
+            <id>jbsleepz-friendspammer</id>
             <url>https://packagecloud.io/jbsleepz/friendspammer/maven2</url>
             <releases>
                 <enabled>true</enabled>
